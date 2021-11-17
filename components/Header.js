@@ -25,8 +25,8 @@ function Header() {
         className="object-contain"
         src="https://links.papareact.com/ua6"
         alt="Logo"
-        width={200}
-        height={100}
+        width={180}
+        height={80}
       />
     </header>
   );
